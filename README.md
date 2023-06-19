@@ -5,6 +5,8 @@ Reddit video scrapper to convert into TikTok format
 
 This Python script uses the Reddit API to download top weekly video posts from a specified subreddit, then crops them to a TikTok-friendly format (9:16 aspect ratio), and stores them locally.
 
+![My Image](https://github.com/Swipe05/Reddit2TikTok/blob/main/reddit2tiktoktotk.png)
+
 ## Table of Contents
 
 1. [Installation](#installation)
